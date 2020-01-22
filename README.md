@@ -9,8 +9,10 @@ Augustiner-Keller im Zollpackhof
 
 https://www.zollpackhof.de/augustiner-keller/
 
-[image]: https://www.dropbox.com/home/Cartoons?preview=2012-13+Super-App.jpg "Super App"
 Sprecht mit uns:
 
 Mac Admins Slack 
 #berlin_mac_admins
+
+![201213Super-App](https://user-images.githubusercontent.com/60174138/72886224-b2ae7880-3d09-11ea-9aee-3075902e3a8b.jpg)
+©tomfiedler

@@ -1,7 +1,3 @@
-# Die Berlin Mac Admins
-
-Landing page for the Berlin Mac Admins community meetups
-
 ## Nächster Termin
 
 Mittwoch, 29. Januar 2020, 20:00

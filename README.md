@@ -12,7 +12,7 @@ Augustiner-Keller im Zollpackhof
 Sprecht mit uns:
 
 Mac Admins Slack 
-#berlin_mac_admins
+[#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)
 
 ![201213Super-App](https://user-images.githubusercontent.com/60174138/72886224-b2ae7880-3d09-11ea-9aee-3075902e3a8b.jpg)
 ©tomfiedler

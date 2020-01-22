@@ -7,7 +7,7 @@ Landing page for the Berlin Mac Admins community meetups
 Mittwoch, 29. Januar 2020, 20:00
 Augustiner-Keller im Zollpackhof
 
-https://www.zollpackhof.de/augustiner-keller/
+[https://www.zollpackhof.de/augustiner-keller/](https://www.zollpackhof.de/augustiner-keller/)
 
 Sprecht mit uns:
 

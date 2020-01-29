@@ -14,3 +14,6 @@ Mac Admins Slack
 
 ![201213Super-App](https://user-images.githubusercontent.com/60174138/72886224-b2ae7880-3d09-11ea-9aee-3075902e3a8b.jpg)
 ©tomfiedler
+
+Als Meetup Event Teilnehmer registrieren:
+https://www.meetup.com/de-DE/Berlin-Mac-Admins

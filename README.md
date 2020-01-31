@@ -1,4 +1,4 @@
-
+# Die Berlin Mac Admins
 
 ## Nächster Termin
 
@@ -6,7 +6,7 @@ Mittwoch, 29. April 2020
 
 Location: TBA
 
-Sprecht mit uns:
+Sprich mit uns:
 
 Mac Admins Slack 
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)

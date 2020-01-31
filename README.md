@@ -1,6 +1,4 @@
-# Die Berlin Mac Admins
 
-Landing page for the Berlin Mac Admins community meetups
 
 ## Nächster Termin
 

@@ -6,7 +6,7 @@ Landing page for the Berlin Mac admins community Meetups
 
 Mittwoch, 29. April 2020
 
-Location: TBA
+Location: Sieht nun doch eher anch einer Videokonfernez aus | currently looks liek we'll have tomeet at a video vonference
 
 Sprich mit uns:
 

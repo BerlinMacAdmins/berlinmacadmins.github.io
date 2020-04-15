@@ -4,7 +4,7 @@ Landing page for the Berlin Mac admins community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 29. April 2020
+Mittwoch, 29. April 2020, 20:00
 
 Location: Sieht nun doch eher nach einer Videokonferenz aus | currently looks like we'll have to meet at a video conference
 

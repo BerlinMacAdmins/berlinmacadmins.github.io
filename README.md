@@ -6,7 +6,7 @@ Landing page for the Berlin Mac admins community Meetups
 
 Mittwoch, 29. April 2020
 
-Location: Sieht nun doch eher nach einer Videokonfernez aus | currently looks like we'll have to meet at a video vonference
+Location: Sieht nun doch eher nach einer Videokonferenz aus | currently looks like we'll have to meet at a video conference
 
 Sprich mit uns:
 

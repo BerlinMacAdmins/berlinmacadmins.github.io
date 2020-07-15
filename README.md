@@ -6,10 +6,7 @@ Landing page for the Berlin Mac admins community Meetups
 
 Mittwoch, 29. Juli 2020, 20:00
 
-Location: tba
-
-
-Sprich mit uns:
+Location: Online WebEx Meeting
 
 Mac Admins Slack 
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)

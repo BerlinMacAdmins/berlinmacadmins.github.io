@@ -4,22 +4,22 @@ Landing page for the Berlin Mac admins community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 28. Oktober 2020, 20:00
+Mittwoch, 27. Januar 2020, 20:00
 
 Location: Online WebEx Meeting
 
 Meeting link:
 
-[https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=mc07a95e17a8a5c9b56face055418e95f](https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=mc07a95e17a8a5c9b56face055418e95f)
+[https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=me8a2fa2a94d525d03e3497d6ed53dae1](https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=me8a2fa2a94d525d03e3497d6ed53dae1)
 
 Meeting number:
-121 486 5443
+121 505 2578
 
 Password:
-XtbSnx6PW49
+JkQqTYaP475
 
 Host key:
-665898
+381133
 
 More ways to join
 Join by video system

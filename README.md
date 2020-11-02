@@ -37,7 +37,8 @@ Contact & discussion:
 Mac Admins Slack 
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)
 
-![201213Super-App](https://user-images.githubusercontent.com/60174138/72886224-b2ae7880-3d09-11ea-9aee-3075902e3a8b.jpg)
+![2010-20ipad](https://user-images.githubusercontent.com/60174138/97916776-c1739280-1d53-11eb-88d0-7b94d7dd7c53.jpg)
+
 ©tomfiedler
 
 Als Meetup Event Teilnehmer registrieren:

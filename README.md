@@ -41,5 +41,5 @@ Mac Admins Slack
 
 ©tomfiedler
 
-Als Meetup Event Teilnehmer registrieren:
-[Meetup.com](https://www.meetup.com/de-DE/Berlin-Mac-Admins)
+Wir sind auch auf [LinkedIn](https://www.linkedin.com/groups/8971462/) zu finden | find us also on [LinkedIn](https://www.linkedin.com/groups/8971462/)
+

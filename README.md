@@ -41,5 +41,6 @@ Mac Admins Slack
 
 ©tomfiedler
 
+
 Wir sind auch auf [LinkedIn](https://www.linkedin.com/groups/8971462/) zu finden | find us also on [LinkedIn](https://www.linkedin.com/groups/8971462/)
 

@@ -4,7 +4,7 @@ Landing page for the Berlin Mac admins community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 27. Januar 2020, 20:00
+Mittwoch, 27. Januar 2021, 20:00
 
 Location: Online WebEx Meeting
 

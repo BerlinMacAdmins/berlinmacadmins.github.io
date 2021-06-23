@@ -6,7 +6,8 @@ Landing page for the Berlin Mac admins community Meetups
 
 Mittwoch, 28. Juli 2021, 20:00
 
-Location: Im Biergarten unserer Wahl (Info folgt) | At the beergarden of choice (tba)
+Location: 
+Im Biergarten unserer Wahl | At the beergarden of choice (tba)
 
 
 

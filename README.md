@@ -4,13 +4,12 @@ Landing page for the Berlin Mac admins community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 28. Juli 2021, 20:00
+Mittwoch, 27. Oktober, 20:00
 
 Location: 
-[Biergarden Zollpackhof Berlin](https://www.zollpackhof.de/biergarten/) / Elisabeth-Abegg-Straße 1, 10557 Berlin
-[covid-19-update](https://www.zollpackhof.de/covid-19-update/)
+tba
 
-Contact: Thomas Kulke (FU Berlin)/ Look for an orange iBook G3 (Clamshell) on one of the tables.
+
 
 Mac Admins Slack   
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)

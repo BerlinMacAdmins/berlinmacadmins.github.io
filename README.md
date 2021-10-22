@@ -4,10 +4,13 @@ Landing page for the Berlin Mac admins community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 27. Oktober, 20:00
+Mittwoch, 27. Oktober, 20:00 Uhr
 
 Location: 
-tba
+Café im Literaturhaus, Fasanenstrasse 23, 10719 Berlin
+
+[Café im Literaturhaus](http://cafe-im-literaturhaus.de)
+
 
 
 

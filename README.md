@@ -8,7 +8,7 @@ SPECIAL EVENT
 Montag, 06. Juni 2022, 18:00 Uhr, WWDC Keynote
 
 Ort: Kantine des Berliner Ensemble | Bertolt-Brecht-Platz 1 | 10117 Berlin | 
-[Berliner Ensemble Webseite](https://www.brewdog.com/eu_de/bars/global/brewdog-berlin-mitte](https://www.berliner-ensemble.de)
+[Berliner Ensemble Webseite](https://www.berliner-ensemble.de)
 
 Mac Admins Slack   
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)

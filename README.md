@@ -4,8 +4,7 @@ Landing page for the Berlin Mac admins community Meetups
 
 ## Nächster Termin | next date
 
-SPECIAL EVENT
-Montag, 06. Juni 2022, 18:00 Uhr, WWDC Keynote
+Mitwoch, 31. August 2022, 20:00 Uhr, WWDC Keynote
 
 Ort: Kantine des Berliner Ensemble | Bertolt-Brecht-Platz 1 | 10117 Berlin | 
 [Berliner Ensemble Webseite](https://www.berliner-ensemble.de)

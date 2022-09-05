@@ -4,17 +4,11 @@ Landing page for the Berlin Mac admins community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 31. August 2022, 20:00 Uhr | Wednesday, August 31, 2022, 20:00
+Mittwoch, 30. November 2022, 20:00 Uhr | Wednesday, November 30, 2022, 20:00
 
 Ort: Kantine des Berliner Ensemble | Bertolt-Brecht-Platz 1 | 10117 Berlin | 
 [Berliner Ensemble Webseite](https://www.berliner-ensemble.de)
 
-Wir freuen uns auf die Präsentationen von Thomas Kulke und Florian Mengert | We look forward to the presentations of Thomas Kulke and Florian Mengert:
-
-
-• Managing Software Updates with Nudge and Jamf
-
-• Managing Secure Token and File Vault
 
 
 Mac Admins Slack   

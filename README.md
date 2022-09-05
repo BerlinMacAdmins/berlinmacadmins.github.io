@@ -14,6 +14,9 @@ Ort: Kantine des Berliner Ensemble | Bertolt-Brecht-Platz 1 | 10117 Berlin |
 Mac Admins Slack   
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)
 
+Terminankündigungen lieber per E-Mail? Hier registrieren: | Prefer announcements via e-mail? Register here:
+[Berlin Mac Admins mailing list](https://lists.fu-berlin.de/listinfo/BerlinMacAdmins/)
+
 ![updateImageTomFiedler_s](https://user-images.githubusercontent.com/60174138/163335465-111477cf-f8fe-4213-9f29-0cbc170fdc68.jpg)
 
 ©tomfiedler

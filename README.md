@@ -4,7 +4,7 @@ Landing page for the Berlin Mac Admins Community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 30. August 2023, 20:00 Uhr | Wednesday, August 30, 2023, 20:00
+Mittwoch, 29. November 2023, 20:00 Uhr | Wednesday, November 29, 2023, 20:00
 
 Ort: Kantine des Berliner Ensemble | Bertolt-Brecht-Platz 1 | 10117 Berlin | 
 [Berliner Ensemble Webseite](https://www.berliner-ensemble.de)

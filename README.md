@@ -4,11 +4,9 @@ Landing page for the Berlin Mac Admins Community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 28. Februar 2024, 20:00 Uhr | Wednesday, February 28, 2024, 20:00
+Mittwoch, 29. Mai 2024, 20:00 Uhr | Wednesday, May 29, 2024, 20:00
 
-Ort: Kantine des Berliner Ensemble | Bertolt-Brecht-Platz 1 | 10117 Berlin | 
-[Berliner Ensemble Webseite](https://www.berliner-ensemble.de)
-
+Ort: tba
 
 
 Mac Admins Slack   

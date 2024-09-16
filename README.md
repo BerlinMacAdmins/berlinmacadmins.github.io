@@ -4,12 +4,9 @@ Landing page for the Berlin Mac Admins Community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 11. Septmber 2024, 19:00 Uhr | Wednesday, September 11, 2024, 19:00
+Mittwoch, 27. November 2024, 19:00 Uhr | Wednesday, November 27, 2024, 19:00
 
-Ort: Tagesspiegel, Askanischer Platz 3, 10963 Berlin
-
-Wichtig: Wegen begrenztem Platz bitten wir um schriftliche Voranmeldung via unseren Slack Kanal oder über unsere Mailingliste, s.u. Vielen Dank!
-Important: Due to limited space, we ask for a written pre-registration via our Slack channel or via our mailing list, see below. Thank you very much!
+Ort: tba
 
 
 Mac Admins Slack   

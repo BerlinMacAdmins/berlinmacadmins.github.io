@@ -4,10 +4,9 @@ Landing page for the Berlin Mac Admins Community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 26. Februar 2025, 19:00 Uhr | Wednesday, February 26, 2025, 19:00
+Mittwoch, 28. Mai 2025, 19:00 Uhr | Wednesday, May 28, 2025, 19:00
 
-Ort: The Castle, Invalidenstraße 129, 10115 Berlin
-https://www.thecastleberlin.de
+Ort: tba
 
 Mac Admins Slack   
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)

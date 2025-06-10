@@ -9,7 +9,7 @@ Mittwoch, 9. Juli 2025, 19:00 Uhr | Wednesday, July 9, 2025, 19:00
 Ort: [wycomco Office, Fasanenstr. 35, 10719 Berlin](https://maps.apple.com/place?address=Fasanenstra%C3%9Fe%2035,%20Wilmersdorf,%2010719%20Berlin,%20Germany&coordinate=52.499439,13.326717&name=wycomco&place-id=I70C0C29803ACB3D4&map=explore)
 
 ⚠️ Anmeldung erforderlich: | Registration required:   
-https://macadmins-meetup.org/event/3/july-meetup
+[https://macadmins-meetup.org/event/3/july-meetup](https://macadmins-meetup.org/event/3/july-meetup)
 
 Mac Admins Slack   
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)

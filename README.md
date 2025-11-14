@@ -4,12 +4,12 @@ Landing page for the Berlin Mac Admins Community Meetups
 
 ## Nächster Termin | next date
 
-Mittwoch, 24. September 2025, 19:00 Uhr | Wednesday, September 25, 2025, 19:00
+Mittwoch, 26. November 2025, 19:00 Uhr | Wednesday, November 26, 2025, 19:00
 
-Ort: [Café Kranzler, Kurfürstendamm 18, 10719 Berlin](https://maps.apple/p/LeLAIFA1I1gVD-)
+Ort: [Wassertorstr. 62, 10969 Berlin, 4. Etage](https://maps.apple/p/gYtMGPH-qx.y0t)
 
 ⚠️ Anmeldung erforderlich: | Registration required:   
-[https://luma.com/tog1kl3c](https://luma.com/tog1kl3c)
+[https://macadmins-meetup.org/event/5/november-meetup](https://macadmins-meetup.org/event/5/november-meetup)
 
 Mac Admins Slack   
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)

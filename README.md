@@ -8,7 +8,8 @@ Mittwoch, 25. Februar 2026, 19:00 Uhr | Wednesday, February 25, 2026, 19:00
 
 Ort: [Hypoport, Heidestraße 8, 10557 Berlin](https://maps.apple.com/place?address=Heidestra%C3%9Fe%208,%20Mitte,%2010557%20Berlin,%20Deutschland&coordinate=52.529818,13.369305&name=Hypoport&place-id=IA87E46284CD59B78&map=transit)
 
-⚠️ Anmeldung erforderlich: | Registration required: Registration not open, yet, mark your calendar
+⚠️ Anmeldung erforderlich: | Registration required: 
+Registration not open, yet, mark your calendar
 
 
 Mac Admins Slack   

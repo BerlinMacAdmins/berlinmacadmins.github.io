@@ -4,12 +4,10 @@ Landing page for the Berlin Mac Admins Community Meetups
 
 ## Nächster Termin | next date
 
-🗓️ Mittwoch, 27. Mai 2026, 19:00 Uhr | Wednesday, May 27, 2026, 19:00
-
+🗓️ Mittwoch, 27. Mai 2026, 19:00 Uhr | Wednesday, May 27, 2026, 19:00   
 Ort: [Liquid Studio, Wassertorstr. 62, 10969 Berlin, 4. Etage](https://maps.apple/p/gYtMGPH-qx.y0t)
 
-⚠️ Anmeldung erforderlich: | Registration required:
-
+⚠️ Anmeldung erforderlich: | Registration required:   
 [https://macadmins-meetup.org/event/8/may-meetup](https://macadmins-meetup.org/event/8/may-meetup)
 
 

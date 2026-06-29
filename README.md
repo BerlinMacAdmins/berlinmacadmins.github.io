@@ -4,11 +4,12 @@ Landing page for the Berlin Mac Admins Community Meetups
 
 ## Nächster Termin | next date
 
-🗓️ Dienstag, 28. Juli 2026, 19:00 Uhr | Tuesday, Juy 28, 2026, 19:00   
-Ort: TBA
+🗓️ **Dienstag**, 28. Juli 2026, 19:00 Uhr | **Tuesday**, July 28, 2026, 19:00   
+Ort: [NIRGENDWO Umwelt- & Kulturort, Helsingforser Str. 10, 10243 Berlin](https://maps.apple/p/ebN30S6xbR5o0r)
 
 ⚠️ Anmeldung erforderlich: | Registration required:   
-TBA
+[https://macadmins-meetup.org/event/9/july-meetup](https://macadmins-meetup.org/event/9/july-meetup?aff=KO7E7HX0)
+
 
 Mac Admins Slack   
 [#berlin_mac_admins](https://macadmins.slack.com/archives/CFEUHA7D0)
@@ -23,4 +24,3 @@ Terminankündigungen lieber per E-Mail? Hier registrieren: | Prefer announcement
 
 Wir sind auch auf [LinkedIn](https://www.linkedin.com/groups/8971462/) zu finden - 
 Find us also on [LinkedIn](https://www.linkedin.com/groups/8971462/)
-
